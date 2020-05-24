@@ -16,7 +16,7 @@ spring:
       test-on-return: true
   redis:
     database: 0
-    host: 39.97.175.206
+    host: 123.56.13.218
     port: 6379
     password: root
     jedis:
